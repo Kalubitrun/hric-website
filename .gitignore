@@ -1,0 +1,8 @@
+# preview artifacts
+preview*.png
+pv-*.png
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
